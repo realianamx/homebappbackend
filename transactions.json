@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "username": "Bilal",
+    "type": "Amount Spent",
+    "amount": 100,
+    "reason": "Roti",
+    "time": "2024-12-06T16:01:01.025Z"
+  }
+]
